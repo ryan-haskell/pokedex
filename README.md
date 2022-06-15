@@ -12,3 +12,5 @@ npx elm-land server
 ```
 
 The Pokedex app will be running at [http://localhost:1234](http://localhost:1234)
+
+![a screenshot of the pokedex on charmander](./screenshot.png)
