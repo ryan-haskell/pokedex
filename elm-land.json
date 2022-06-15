@@ -1,0 +1,25 @@
+{
+  "app": {
+    "env": [],
+    "html": {
+      "attributes": {
+        "html": { "lang": "en" },
+        "head": {},
+        "body": {}
+      },
+      "title": "Pokemon",
+      "meta": [
+        { "charset": "UTF-8" },
+        { "http-equiv": "X-UA-Compatible", "content": "IE=edge" },
+        { "name": "viewport", "content": "width=device-width, initial-scale=1.0" }
+      ],
+      "link": [
+        { "rel": "icon", "href": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png" },
+        { "rel": "preconnect", "href": "https://fonts.googleapis.com" },
+        { "rel": "preconnect", "href": "https://fonts.gstatic.com", "crossorigin": true },
+        { "rel": "stylesheet", "href": "https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,400;0,600;1,400&family=Space+Grotesk:wght@600&display=swap" },
+        { "rel": "stylesheet", "href": "/styles.css" }
+      ]
+    }
+  }
+}

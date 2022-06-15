@@ -1,0 +1,6 @@
+/.elm-land
+/elm-stuff
+/node_modules
+.DS_Store
+*.pem
+.vscode
